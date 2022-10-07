@@ -5,8 +5,8 @@ include $(TOPDIR)/rules.mk
 
 LUCI_TITLE:=Atmaterial new theme
 LUCI_DEPENDS:=
-PKG_VERSION:=1.2
-PKG_RELEASE:=02-20220225
+PKG_VERSION:=1.3
+PKG_RELEASE:=02-20221007
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
